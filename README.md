@@ -1,0 +1,6 @@
+- Nome do projeto: Smart traffic
+- Nome do desenvolvedor: Pedro Cavani
+- Objetivo do projeto: Criar um semáforo inteligente para melhorar o trânsito.
+- Linguagem utilizada: Linguagem C
+- Descrição resumida do funcionamento: Sensores detectam veículos e o sistema controla os sinais automaticamente.
+- Como executar o programa, quando houver código: O código em C é enviado ao Arduino e o sistema funciona após o upload.
